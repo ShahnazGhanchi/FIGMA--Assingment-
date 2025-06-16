@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+
+.h-light{
+    background-color: yellow;
+}
+
+input[type="e-mail"]{
+height:40px;
+width:200 ;
+border: 3px solid blue;
+margin-right: -5px;
+
+}
+
+.btn:hover{
+    cursor: pointer;
+}
+
+
+/* .hero-img{
+width: 260px;
+} */
+
+.hero-img2{
+   /* margin-top: 450px; */
+   margin-left: -9.3rem;
+}
+
+
+
+/* ////////////////live */
+
+.live{
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+.card{
+
+ border-radius: 8px;
+
+}
+.livelong{
+    background-color: #EEF1F7;
+    min-height: 80vh;
+}
+
+
+
+        
+        .icon-text{
+           
+            text-align: center;
+            /* margin-top: 10px;  */
+        }
+ 
+        
+
+        
+     .icons img{
+            height: 60px;
+            width: 70px;
+        }
+        .bg-hero{
+            background-image: url(./images/customization.png);
+            background-size: cover;
+                background-position: center;
+            height: 100vh
+        }
+    
+
+
+    
+    
+
+
+
+
+
+         
+    
+
+       
+        
+    
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
